@@ -1,1 +1,17 @@
+# SERVER OVERVIEW
 
+## OS
+Ubuntu Server 20.04
+
+## Role
+  - Web Server Testing
+  - NAS storage
+
+## Access
+  - Local access with SSH
+  - Remote access with Tailscale Service
+
+## Future  plans
+  - Add monitoring
+  - Add more tools for Cibersecurity learning
+  - More configuration in server hardening
