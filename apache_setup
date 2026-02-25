@@ -1,1 +1,14 @@
+# Apache Setup
 
+Its a simple and with default configuration for Apache2 in Linux
+
+## Version
+Apache/2.4.41 (Ubuntu)
+
+##Configuration
+
+Default configuration with the install
+
+## Purpose
+  - Web explotation learning
+  - Local cybersecurity testing
