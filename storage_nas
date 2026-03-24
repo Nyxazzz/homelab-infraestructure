@@ -1,1 +1,7 @@
+##Storage NAS
+1 Disk: 500GB
+2 Disk: 160GB
+3 Disk: 1TB
+4 Disk: 5TB
 
+The disks are mount in the directory /mnt/ and distributed by Samba Protocol
